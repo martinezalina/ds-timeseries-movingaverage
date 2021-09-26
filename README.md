@@ -1,2 +1,2 @@
-# ds-timeseries-movingaverage
+# Time Series - Working with Moving Average
 Exploramos una serie de tiempo a través de diferentes unidades de tiempo y medias móviles. 
