@@ -2,11 +2,9 @@
 
 Exploramos una serie de tiempo a través de diferentes unidades de tiempo y medias móviles.
 
-## Tech stack
+#### Tech stack
 
 - Python
 - Numpy
 - Pandas
-- Matplotlib
-- Seaborn
 - Plotly
